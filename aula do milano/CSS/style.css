@@ -58,7 +58,7 @@
 			   transition: 1s;
 			   }
 .intro h1:hover::after{
-	weight:300px;
+	width:300px;
 }
 .intro p {
 			font-size: 1.125em;
